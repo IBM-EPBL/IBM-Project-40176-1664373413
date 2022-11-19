@@ -9,6 +9,9 @@ Alfha A<br>
 Amrin Farha Mohamed Aslam<br>
 Arfiya M<br>
 Asmitha A<br>
-<h1>DEMO VIDEO LINK<h1>
+<h1>DEMO VIDEO LINK</h1>
 https://www.mediafire.com/file/goqr95pucr4bwqp/Demo_video.mp4/file<br>
+<h1>Or</h1>
+https://github.com/IBM-EPBL/IBM-Project-40176-1664373413/blob/main/Final%20Deliverables/Demo%20video.mp4<br>
+  
 
